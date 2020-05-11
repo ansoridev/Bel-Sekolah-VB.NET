@@ -1,0 +1,23 @@
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\Assets\Configuration\Database1.accdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\Bel Sekolah.exe.config
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\Bel Sekolah.exe.manifest
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\Bel Sekolah.application
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\Bel Sekolah.exe
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\Guna.UI.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\MetroFramework.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\ya\Guna.UI.pdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Interop.WMPLib.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.About.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.JadwalAuth.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.SettingsAuth.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.DetailJadwal.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.Katasandi.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.Dashboard.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.HalamanUtama.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel_Sekolah.Resources.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel Sekolah.vbproj.GenerateResource.cache
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel Sekolah.exe.manifest
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel Sekolah.application
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel Sekolah.vbproj.CopyComplete
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\ya\Bel Sekolah.exe

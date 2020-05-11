@@ -1,0 +1,28 @@
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.manifest
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.application
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Guna.UI.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\MetroFramework.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\Guna.UI.pdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.About.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.JadwalAuth.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.SettingsAuth.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.DetailJadwal.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.Katasandi.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.Dashboard.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.HalamanUtama.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel_Sekolah.Resources.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.exe.manifest
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.application
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.exe
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.xml
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.pdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Debug\System.Data.SQLite.xml

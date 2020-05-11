@@ -1,0 +1,27 @@
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Bel Sekolah.exe.config
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Bel Sekolah.exe.manifest
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Bel Sekolah.application
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Bel Sekolah.exe
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Bel Sekolah.pdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Bel Sekolah.xml
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Guna.UI.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\MetroFramework.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\Guna.UI.pdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Interop.WMPLib.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.About.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.JadwalAuth.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.SettingsAuth.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.DetailJadwal.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.Katasandi.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.Dashboard.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.HalamanUtama.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel_Sekolah.Resources.resources
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel Sekolah.vbproj.GenerateResource.cache
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel Sekolah.exe.manifest
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel Sekolah.application
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel Sekolah.exe
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel Sekolah.xml
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\obj\Release\Bel Sekolah.pdb
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\System.Data.SQLite.dll
+C:\Users\Ahmad Ansori\source\repos\Bel Sekolah\Bel Sekolah\bin\Release\System.Data.SQLite.xml

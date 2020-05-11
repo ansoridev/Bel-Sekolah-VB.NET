@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bel Sekolah
+</name>
+</assembly>
+<members>
+<member name="T:Bel_Sekolah.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources._1575967109734">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.idout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_brush_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_control_point_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_dashboard_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_date_range_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_delete_forever_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_info_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_notifications_active_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_notifications_active_white_18dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_notifications_off_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_settings_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.outline_vpn_key_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.round_highlight_off_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bel_Sekolah.My.Resources.Resources.round_minimize_white_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSet.JadwalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSet.PengaturanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSet.JadwalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSet.PengaturanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSet.JadwalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSet.PengaturanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSetTableAdapters.JadwalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSetTableAdapters.PengaturanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Bel_Sekolah.BelSekolahDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Bel_Sekolah.BelSekolahDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Bel_Sekolah.BelSekolahDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager.UpdateAll(Bel_Sekolah.BelSekolahDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Bel_Sekolah.BelSekolahDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
